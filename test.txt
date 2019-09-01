@@ -1,5 +1,0 @@
-Hello, Git!
-Edit test!
-branch test!
-commit test
-tag test
